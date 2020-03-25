@@ -1,0 +1,2 @@
+# pubic-assets
+public assets
